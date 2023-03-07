@@ -20,7 +20,7 @@ If you are interested to take it over, please let me know.
 
 Please note that this is a private project and that I (Markus Lauff) am not related to RCT in any way.
 
-Show values of a RCT Power photovolatics power converter
+Show values of a RCT Power photovoltaics power converter
 
 ## REMARKS
 
